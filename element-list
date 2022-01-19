@@ -2,6 +2,7 @@ com.zeroedmc.surf
 com.zeroedmc.surf.command
 com.zeroedmc.surf.command.gamemode
 com.zeroedmc.surf.command.tabcompletion
+com.zeroedmc.surf.ex
 com.zeroedmc.surf.guis
 com.zeroedmc.surf.items
 com.zeroedmc.surf.ranks
